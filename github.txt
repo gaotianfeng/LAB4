@@ -1,0 +1,2 @@
+github是服务端，要想在自己电脑上使用git我们还需要一个git客户端，我这里选用msysgit，
+这个只是提供了git的核心功能，而且是基于命令行的。如果想要图形界面的话只要在msysgit的基础上安装TortoiseGit即可。
