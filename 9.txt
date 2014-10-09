@@ -1,0 +1,5 @@
+#首先查看以前的commit
+git log --oneline 
+#假如有这样一个commit：8a5cbc2 updated readme
+#这样为他添加tag
+git tag -a v1.1 8a5cbc2
