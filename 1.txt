@@ -1,2 +1,6 @@
 this is the first file that I add to the LAB4.
+<<<<<<< HEAD
 this is the b3
+
+the branch c4
+
