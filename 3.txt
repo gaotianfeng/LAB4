@@ -2,3 +2,4 @@ gitignore顾名思义就是告诉git需要忽略的文件，这是一个很重�
 bin
 *.suo
 obj
+git b3
